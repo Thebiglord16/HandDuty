@@ -1,5 +1,5 @@
 const MongoClient = require('mongodb').MongoClient;
-const uri = 'mongodb+srv://HandDutty:HandDutty@cluster0.gd4mv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
+const uri = '';
 
 function MongoUtils() {
     const mu = {};
